@@ -177,8 +177,8 @@ const projects = [
       },
     ],
     image: Emusic,
-    source_code_link: "https://github.com/akshay-mani-tripathi/E-music",
-    flag: "0",
+    source_code_link: "https://e-music.onrender.com/",
+    flag: "1",
   },
   {
     name: "Sort analyzer",
